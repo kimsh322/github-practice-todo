@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>pull request 연습중</p>
         <p>dev에서 작성한 내용</p>
+        <p>뭔가 적었다.</p>
       </header>
     </div>
   );
