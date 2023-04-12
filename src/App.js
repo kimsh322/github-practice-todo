@@ -6,12 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          여기는 <code>dev branch</code> 입니다.
-        </p>
-        <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-          Learn React
-        </a>
+        <p>pull request 연습중</p>
+        <p>dev에서 작성한 내용</p>
       </header>
     </div>
   );
